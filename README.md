@@ -9,5 +9,5 @@ Creates a playlist using Youtube Data API V3 and Spotify Web API
 
 # Instructions
 1. Add your spotify Web API token and ID into the secrets.py file
-2. Add your Youtube Data API v3 client credentials and API Token
+2. Add your Youtube Data API v3 client credentials and API Token to the client_secrets.json file
 3. Run using python create_spotify_playlist.py
